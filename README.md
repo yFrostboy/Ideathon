@@ -10,7 +10,7 @@ Como Rodar - Configure um servidor local, como Apache/Nginx e acesse via localho
 Nota para desenvolvimento - Adicionar captura ao final da URL permite imprimir coordenadas de latitude e longitude no console ao clicar no mapa.
 
 
-Limitações Conhecidas
+v Limitações Conhecidas v
 
   Dados Simulados: Trajetos, posições de ônibus e pontos são fictícios.
 
