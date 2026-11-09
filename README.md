@@ -7,7 +7,7 @@ Solução - Aplicação web estática que calcula o tempo necessário para o pas
 
 Como Rodar - Configure um servidor local, como Apache/Nginx e acesse via localhost.
 
-Nota para desenvolvimento: Adicionar captura ao final da URL permite imprimir coordenadas de latitude e longitude no console ao clicar no mapa.
+Nota para desenvolvimento - Adicionar captura ao final da URL permite imprimir coordenadas de latitude e longitude no console ao clicar no mapa.
 
 
 Limitações Conhecidas
